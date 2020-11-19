@@ -55,7 +55,7 @@ public class Event extends NodeMultiple {
 	 * @return the playerAnswer
 	 */
 	public String getPlayerAnswer() {
-		/* TO BE COMPLETED */
+		/* TO BE COMPLETE */
 	}
 
 	/**
